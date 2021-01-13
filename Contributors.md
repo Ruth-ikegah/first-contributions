@@ -3835,3 +3835,4 @@
 - [Yichi Zhang](https://github.com/YichiZ)
 - Shukun Zhang
 - [RishiDharshan](https://github.com/RishiDharshan)
+- [Douglas Franklin Idamezhim](https://github.com/idamezhim)

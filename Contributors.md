@@ -72,6 +72,7 @@
 - [Prince Agrawal 💻🚀](https://github.com/princeprojects)
 - [Ashutosh Saxena](https://github.com/ashugit27)
 - [Samrat Mitra](https://github.com/lionelsamrat10)
+- [Alex Oyebamiji](https://github.com/AlexOyebamiji)
 - [Karan Shetty](https://github.com/shettykaran21/)
 - [Anugrah Dixit](https://github.com/anugrah3199)
 - [Tanya Garg](http://github.com/tgag17)

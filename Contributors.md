@@ -11,6 +11,7 @@
 - [Ayan Web](https://github.com/Ayan-web)
 - [Anakhe Ajayi] (https://github.com/AAnakhe)
 - [Sinduri Gundu](https://github.com/Sinduri11)
+- [Akojede Olorundara] (https://github.com/dvrvsimi)
 - [Dmitriy Kruglov] (https://github.com/dimakr)
 - [Maneshwar Mehra](https://github.com/maneshwar-mehra)
 - [Christian Arteaga](https://github.com/chrisarap)

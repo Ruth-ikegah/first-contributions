@@ -1,11 +1,13 @@
 # Contributors
 
 <!-- prettier-ignore-start -->
+
 - [AdarsH](https://github.com/AKACHI-4)
 - [Atharva Thakur](https://github.com/Atharva-Thakur))
 - [Ammar Fasih Hanif 😎](https://github.com/Ammar-Fasih)
 - [CallieRhino](https://github.com/CallieRhino)
 - [Shahzad Ali](https://github.com/Malik-shahzadAli)
+- [Offia-chukwu John](https://github.com/CardinalSparrow)
 - [Deepak Kumar](https://github.com/kumar-rocks)
 - [Divya Prakash](https://github.com/divyaprakashdp)
 - [Ayan Web](https://github.com/Ayan-web)
